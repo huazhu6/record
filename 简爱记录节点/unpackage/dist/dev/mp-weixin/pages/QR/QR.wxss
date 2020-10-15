@@ -1,0 +1,40 @@
+
+.QR {
+	text-align: center;
+}
+.QR>view {
+	display: inline-block;
+	width: 240px;
+	text-align: center;
+	-webkit-box-shadow: 0 0 20px #d1d1d1;
+	        box-shadow: 0 0 20px #d1d1d1;
+	border-radius: 20px;
+	margin-top: 20%;
+	padding: 40px;
+}
+.QR>view>image {
+	width: 150px;
+	height: 150px;
+	margin: 20px 0;
+}
+.QR>view>view {
+	padding-bottom: 50px;
+	color: #a7a7a7;
+	border-bottom: 1px solid #a7a7a7;
+}
+.QR>view>button {
+	width: 180px;
+	line-height: 50px;
+	border-radius: 20px;
+	margin-top: 40px;
+	background: #a2e7ff;
+}
+.QR>view>button>text {
+	display: inline-block;
+	font-size: 16px;
+	margin-left: 8px;
+}
+.QR .node {
+	margin-top: 10px;
+}
+

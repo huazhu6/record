@@ -1,0 +1,1 @@
+<view class="record"><view><input type="text" placeholder="请输入批次号" data-event-opts="{{[['input',[['__set_model',['','num','$event',[]]]]]]}}" value="{{num}}" bindinput="__e"/></view><button data-event-opts="{{[['tap',[['jump']]]]}}" bindtap="__e">录入</button></view>

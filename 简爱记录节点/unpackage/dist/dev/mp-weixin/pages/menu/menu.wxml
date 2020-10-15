@@ -1,0 +1,1 @@
+<view class="menu"><view data-event-opts="{{[['tap',[['jump']]]]}}" bindtap="__e">批次号记录</view><view data-event-opts="{{[['tap',[['jump_']]]]}}" bindtap="__e">标签绑定</view><view data-event-opts="{{[['tap',[['scan']]]]}}" bindtap="__e">查询产品信息</view><view data-event-opts="{{[['tap',[['jump__']]]]}}" bindtap="__e">订单号记录</view></view>

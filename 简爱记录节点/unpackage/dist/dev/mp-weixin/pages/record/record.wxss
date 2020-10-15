@@ -1,0 +1,31 @@
+
+page,
+page,
+#app {
+	height: 100%;
+}
+.record {
+	width: 100%;
+	height: 100%;
+	background: #a2e7ff;
+	text-align: center;
+}
+.record>view {
+	padding-top: 60%;
+}
+.record input {
+	width: 80%;
+	height: 50px;
+	border-radius: 30px;
+	border: 1px solid #333333;
+	margin: 0 10%;
+	background: #FFFFFF;
+}
+button {
+	width: 80%;
+	height: 50px;
+	border-radius: 30px;
+	background: #FFFFFF;
+	margin-top: 5%;
+}
+

@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/record/record",
+    "pages/QR/QR",
+    "pages/menu/menu",
+    "pages/record_/record_",
+    "pages/father/father",
+    "pages/son/son",
+    "pages/record__/record__",
+    "pages/city/city",
+    "pages/son_/son_"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "用于记录商品位置信息"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap99.json"
+}

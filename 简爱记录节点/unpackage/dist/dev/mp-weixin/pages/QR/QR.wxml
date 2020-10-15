@@ -1,0 +1,1 @@
+<view class="QR"><view><image src="../../static/QR.png" mode></image><view>扫描二维码，进行查询</view><button data-event-opts="{{[['tap',[['scan']]]]}}" bindtap="__e">扫描<text>{{"( "+num_+" )"}}</text></button><block wx:if="{{num_!==0}}"><button data-event-opts="{{[['tap',[['node']]]]}}" class="node" bindtap="__e">记录</button></block></view></view>

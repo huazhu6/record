@@ -1,0 +1,72 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "简爱"
+			}
+		},
+		{
+			"path": "pages/record/record",
+			"style": {
+				"navigationBarTitleText": "记录节点"
+			}
+		},
+		{
+			"path": "pages/QR/QR",
+			"style": {
+				"navigationBarTitleText": "扫码追溯"
+			}
+		},
+		{
+			"path":"pages/menu/menu",
+			"style":{
+				"navigationBarTitleText":"节点记录"
+			}
+		},
+		{
+			"path":"pages/record_/record_",
+			"style":{
+				"navigationBarTitleText":"标次号记录"
+			}
+		},
+		{
+			"path": "pages/father/father",
+			"style": {
+				"navigationBarTitleText": "父节点"
+			}
+		},
+		{
+			"path": "pages/son/son",
+			"style": {
+				"navigationBarTitleText": "子节点"
+			}
+		},
+		{
+			"path": "pages/record__/record__",
+			"style": {
+				"navigationBarTitleText": "订单号记录"
+			}
+		},
+		{
+			"path": "pages/city/city",
+			"style": {
+				"navigationBarTitleText": "城市选择"
+			}
+		},
+		{
+			"path": "pages/son_/son_",
+			"style": {
+				"navigationBarTitleText": "子节点"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

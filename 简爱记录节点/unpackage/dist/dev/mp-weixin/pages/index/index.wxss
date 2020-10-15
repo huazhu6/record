@@ -1,0 +1,24 @@
+
+.content {
+	text-align: center;
+}
+.content>image {
+	margin-top: 10%;
+	width: 300px;
+	height: 300px;
+}
+.content>input {
+	width: 80%;
+	height: 40px;
+	border-radius: 20px;
+	border: 1px solid #555555;
+	margin: 15px 10%;
+}
+.content>button {
+	width: 80%;
+	line-height: 40px;
+	border-radius: 20px;
+	background: #a2e7ff;
+	margin: 40px 10%;
+}
+

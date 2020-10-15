@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "城市选择",
+  "usingComponents": {
+    "uni-popup": "/pages/city/uni-pop/uni-pop"
+  }
+}

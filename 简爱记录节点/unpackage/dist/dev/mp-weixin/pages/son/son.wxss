@@ -1,0 +1,38 @@
+
+page,
+page,
+#app {
+	height: 100%;
+}
+.son {
+	width: 100%;
+	height: 100%;
+	background: #a2e7ff;
+	text-align: center;
+	position: relative;
+}
+.son>.list{
+	background: #FFFFFF;
+	margin: 20px;
+	display: inline-block;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 5px #808080;
+	        box-shadow: 0 0 5px #808080;
+}
+.son>.but{
+	position: absolute;
+	bottom: 30px;
+	text-align: center;
+	z-index: 8;
+	height: 50px;
+	left: 0;
+	width: 100%;
+}
+.but>button{
+	width: 40%;
+	margin: 0 10px;
+	line-height: 50px;
+	background: #FFFFFF;
+	display: inline-block;
+}
+
